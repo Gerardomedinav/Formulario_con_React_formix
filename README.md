@@ -2,7 +2,7 @@
 
 Este proyecto fue desarrollado como parte del programa de UTN y Argentina Programa. El objetivo era crear el maquetado de una página de registro utilizando React JS y JSX, Chakra UI y Formik.
 
-![Logo de mi proyecto](logo.png)
+![Logo de mi proyecto](./src/img/logo.png)
 
 ## Requisitos
 

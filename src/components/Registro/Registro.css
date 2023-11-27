@@ -1,0 +1,54 @@
+
+/* Estilos para dispositivos pequeños */
+@media screen and (min-width: 400px) {
+    .container {
+      padding: 16px;
+    }
+  
+    .form-container {
+      width: 100%;
+    }
+  
+    .css-1p9rqme {
+      height: auto;
+      max-width: 100%;
+      width: 100%;
+    }
+  }
+/* Estilos base para todos los tamaños de pantalla */
+.container {
+    padding: 16px;
+  }
+  
+  .form-container {
+    width: 100%;
+  }
+  
+  .css-1p9rqme {
+    height: auto;
+    max-width: 100%;
+    width: 100%;
+  }
+  
+  /* Estilos para dispositivos medianos y grandes */
+  @media screen and (min-width: 601px) {
+    .container {
+      padding: 32px;
+    }
+  }
+  
+  /* Estilos para dispositivos pequeños (móviles) */
+  @media only screen and (max-width: 600px) {
+    .css-1p9rqme {
+      height: 92vh; 
+    }
+  }
+  
+  /* Estilos adicionales para dispositivos más pequeños en modo retrato */
+  @media only screen and (max-width: 375px) and (orientation: portrait) {
+    .css-1p9rqme {
+      height: 105vh; 
+    }
+  }
+  
+  
