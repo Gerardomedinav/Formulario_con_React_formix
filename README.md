@@ -1,4 +1,4 @@
-# Registro de página web con React JS, Chakra UI y Formik
+# Registro de página web con React JS, Chakra UI, Formik y Yup
 
 Este proyecto fue desarrollado como parte del programa de UTN y Argentina Programa. El objetivo era crear el maquetado de una página de registro utilizando React JS y JSX, Chakra UI y Formik.
 
