@@ -12,7 +12,7 @@ Este proyecto fue desarrollado como parte del programa de UTN y Argentina Progra
 ## Pasos
 
 1. Abre Visual Studio Code y crea un nuevo proyecto de React JS utilizando el comando `npx create-react-app nombre-del-proyecto` en la terminal.
-2. Instala las dependencias de Chakra UI y Formik utilizando los comandos `npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion` y `npm install formik`, 'npm install yup' respectivamente.
+2. Instala las dependencias de Chakra UI y Formik utilizando los comandos `npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion` y `npm install formik`, `npm install yup` respectivamente.
 4. En la carpeta `src`, crea un nuevo archivo llamado `Registro.js`.
 5. Importa los componentes necesarios de React, Chakra UI y Formik al inicio del archivo:
 
